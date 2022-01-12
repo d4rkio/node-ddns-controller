@@ -1,0 +1,6 @@
+github.com/google/go-querystring v1.0.0 h1:Xkwi/a1rcvNg1PPYe5vI8GbeBY/jrVuDX5ASuANWTrk=
+github.com/google/go-querystring v1.0.0/go.mod h1:odCYkC5MyYFN7vkCjXpyrEuKhc/BUO6wN/zVPAxq5ck=
+github.com/panta/go-hetzner-dns v0.0.0-20210217122151-0df462200341 h1:yEcAl1IbP0cP1ObMvuwB2AklF9U6fUVp0EkHI05b5lg=
+github.com/panta/go-hetzner-dns v0.0.0-20210217122151-0df462200341/go.mod h1:NOFGD9ctGy9gi7spYXhuQNXrPQRzQMY25USM6UvAloM=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
